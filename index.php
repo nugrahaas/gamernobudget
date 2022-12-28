@@ -9,10 +9,23 @@
 <body>
 
 	<div class="luaran">
+		<div>
+			<nav class="navigation">
+				<input type="checkbox" class="menu-btn" id="menu-btn">
+				<label for="menu-btn" class="menu-icon">
+					<span class="nav-icon"></span>
+				</label>
+
+				<a class="logo" href="index.php" style="text-decoration:none">
+					Gamernobudget.com
+				</a>
+
+			</nav>
+		</div>
 		<div class="container">
-			<li><a href="#" class="cool-link" id="cool-link">Game</a></li>
-			<li><a href="#" class="cool-link" id="cool-link">What's New</a></li>
-			<li><a href="#" class="cool-link" id="cool-link">About</a></li>
+			<li><a href="overview.php" class="cool-link" id="cool-link">Game</a></li>
+			<li><a href="whatsnew.php" class="cool-link" id="cool-link">What's New?</a></li>
+			<li><a href="about.php" class="cool-link" id="cool-link">About</a></li>
 
 				<form action="" class="search-box">
 					<input type="text" name="search" placeholder="Search Game here.." class="search-input"/>
@@ -23,22 +36,6 @@
 			
 		</div>
 		
-		<div>
-			<nav class="navigation">
-				<input type="checkbox" class="menu-btn" id="menu-btn">
-				<label for="menu-btn" class="menu-icon">
-					<span class="nav-icon"></span>
-				</label>
-
-				<a class="logo">
-					Gamernobudget.com
-				</a>
-
-			</nav>
-		</div>
-
-		
-
 		<div>
 			
 			<p style="color: #fff; font-family: gill sans mt; font-size: 25px; margin-left: 10%; position: absolute; margin-top: 200px;">Trending</p>

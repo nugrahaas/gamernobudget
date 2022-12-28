@@ -38,6 +38,11 @@
         <div class="card-game" style="background: #fff; width: 220px; height: 300px; margin-top: 180px; margin-left: 10%; position: absolute;">
 			<img src="image/rdr2.jpg" style="width: inherit; height: inherit;">
 		</div>
-    
+        <p style="color: #fff; font-family: gill sans mt; font-size: 18px; margin-left: 30%; 
+            position: absolute; margin-top: 200px;">Tutorial : Click the link, press download, extract the file,</p>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 18px; margin-left: 30%; 
+            position: absolute; margin-top: 220px;">run the installer, play the game</p>
+        <a href="https://www.rgames31.com/red-dead-redemption-2-download/" style="color: #fff; font-family: gill sans mt; font-size: 20px; 
+        margin-left: 30%; position: absolute; margin-top: 250px;">Download disini</a>
 </body>
 </html>

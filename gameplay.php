@@ -38,6 +38,17 @@
         <div class="card-game" style="background: #fff; width: 220px; height: 300px; margin-top: 180px; margin-left: 10%; position: absolute;">
 			<img src="image/rdr2.jpg" style="width: inherit; height: inherit;">
 		</div>
+        <div class="card-game" style="background: #fff; width: 220px; height: 130px; margin-top: 180px; margin-left: 33%; position: absolute;">
+			<img src="image/rdrgameplay.jpeg" style="width: inherit; height: inherit;">
+		</div>
+        <a href="https://youtu.be/VeVQkHB7ZHE" style="color: #fff; font-family: gill sans mt; font-size: 16px; margin-left: 51%; 
+            position: absolute; margin-top: 180px;">KETEMU CEWEK CANTIK DI RDR 2</a>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 12px; margin-left: 51%; 
+            position: absolute; margin-top: 220px;">Captured entirely from in-game footage, watch this</p>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 12px; margin-left: 51%; 
+            position: absolute; margin-top: 235px;">introduction to Red Dead Redemption 2's gameplay</p>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 12px; margin-left: 51%; 
+            position: absolute; margin-top: 250px;">in 4K. Red Dead...</p>
     
 </body>
 </html>

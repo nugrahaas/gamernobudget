@@ -38,6 +38,12 @@
         <div class="card-game" style="background: #fff; width: 220px; height: 300px; margin-top: 180px; margin-left: 10%; position: absolute;">
 			<img src="image/rdr2.jpg" style="width: inherit; height: inherit;">
 		</div>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 18px; margin-left: 30%; 
+            position: absolute; margin-top: 200px;">After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der </p>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 18px; margin-left: 30%; 
+            position: absolute; margin-top: 220px;">Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on</p>
+        <p style="color: #fff; font-family: gill sans mt; font-size: 18px; margin-left: 30%; 
+            position: absolute; margin-top: 240px;">their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.</p>
     
 </body>
 </html>
